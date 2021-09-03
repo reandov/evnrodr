@@ -16,7 +16,7 @@ I've experience with quite a lot of development fields, but my focus nowadays re
 
 ### 🚧 Currently Working With
 - [React Developer (Intern) at Nestec](https://nestec.com.br/)
-- [COVID-19 in Brazil | Dashboard using React/Next and Firebase](http://covid-painel.vercel.app/)
+- [COVID-19 in Brazil | Dashboard using React/Next and Firebase](http://painel-covid.vercel.app/)
 - [COVID-19 in Brazil | Scripts using Python](https://github.com/evnrodr/covid19-scripts)
 
 ### 🌐 Stuff I Made Or Contributed To
