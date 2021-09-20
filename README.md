@@ -34,5 +34,5 @@ I've experience with quite a lot of development fields, but my focus nowadays re
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=evnrodr&theme=react&show_icons=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evnrodr&hide=jupyter%20notebook,c&theme=react&show_icons=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evnrodr&layout=compact&hide=jupyter%20notebook,c&theme=react&show_icons=true"/>
 </div>
