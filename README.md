@@ -13,8 +13,6 @@ I've experience with quite a lot of development fields, but my focus nowadays re
 
 📚 **Currently studying:** React | React Native | Flutter
 
-<br/>
-
 <h1 align="center">Stack</h1>
 
 <div align="center">
