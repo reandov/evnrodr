@@ -11,7 +11,7 @@ In love with technology since ever, I write lines of code that help to change th
 
 I've experience with quite a lot of development fields, but my focus nowadays rely on Front End Development (Web and Mobile) and a little on Data Science. I'm currently working with React, for both Web and Mobile environments.
 
-📚 **Currently studying:** React | React Native | Flutter
+📚 **Currently studying:** ReactJS | NodeJS | Go
 
 <h1 align="center">Stack</h1>
 
